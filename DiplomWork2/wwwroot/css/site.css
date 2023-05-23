@@ -1,0 +1,25 @@
+html {
+  font-size: 14px;
+}
+.logo {
+    width: 140px;
+    height: 30px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.btn{
+    margin-left: 5px;
+    margin-right: 5px;
+}

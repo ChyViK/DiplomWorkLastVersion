@@ -1,0 +1,55 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 486.084 88.829">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 45.656px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+      }
+
+      .cls-1, .cls-5 {
+        fill: #55007c;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.105em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.105em;
+      }
+
+      .cls-4 {
+        fill: #318cd3;
+      }
+
+      .cls-6, .cls-9 {
+        fill: #8612ad;
+      }
+
+      .cls-7 {
+        fill: #70bde8;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <title>hui</title>
+  <text class="cls-1" transform="translate(159.284 57.746)">EA<tspan class="cls-2" x="76.564" y="0">S</tspan><tspan x="110.486" y="0">Y </tspan><tspan class="cls-3" x="165.226" y="0">C</tspan><tspan x="203.486" y="0">ODE</tspan></text>
+  <text x="-45.713" y="-187.171"></text>
+  <g>
+    <polygon class="cls-4" points="72.01 0 98.316 0 135.916 44.415 98.316 88.829 72.01 88.829 109.61 44.415 72.01 0"/>
+    <polygon class="cls-5" points="63.907 0 37.6 0 0 44.415 37.6 88.829 63.907 88.829 26.306 44.415 63.907 0"/>
+    <polygon class="cls-6" points="37.6 0 63.907 0 13.361 60.197 0 44.415 37.6 0"/>
+    <polygon class="cls-7" points="72.01 88.829 122.588 28.671 135.916 44.415 98.316 88.829 72.01 88.829"/>
+    <polygon class="cls-8" points="98.324 0 64.106 88.829 37.82 88.829 72.037 0 98.324 0"/>
+    <polygon class="cls-9" points="98.324 0 64.106 88.829 37.82 88.829 72.037 0 98.324 0"/>
+  </g>
+</svg>
